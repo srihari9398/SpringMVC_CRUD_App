@@ -35,7 +35,7 @@ pom.xml
 
 ## Setup Steps
 1. Clone repository
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/srihari9398/SpringMVC_CRUD_App.git
 
 2. Import project as Maven project in STS / Eclipse / IntelliJ.
 
